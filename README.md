@@ -24,12 +24,6 @@ End the program
 
 ## Program:
 
-DEVELOPED BY:MOHAMMED SAAJID S
-
-REGISTER NUMBER: 212223240093
-
-TO FIND THE EIGEN VALUES AND EIGEN VECTORS
-
 ```
 #Program to find the eigen values and eigen vectors.
 #Developed by: ARJUN N S
